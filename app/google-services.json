@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "38238201828",
+    "firebase_url": "https://remider-info.firebaseio.com",
+    "project_id": "remider-info",
+    "storage_bucket": "remider-info.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:38238201828:android:464b9b14f2a92fa0cec9f1",
+        "android_client_info": {
+          "package_name": "com.proyectoalex"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "38238201828-s4u12sc51omfum0aa5ibmqd67bu9um8t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD164tzGmB_h0rPyT8nkSCdeVdzkGZ3O_U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "38238201828-s4u12sc51omfum0aa5ibmqd67bu9um8t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
